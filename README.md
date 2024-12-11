@@ -34,7 +34,7 @@ search, 12:2825–2830, 2011
 [3] Charles R. Harris, K. Jarrod Millman, St´efan J. van der Walt, Ralf Gommers, Pauli Virta-
 nen, David Cournapeau, Eric Wieser, Julian Taylor, Sebastian Berg, Nathaniel J. Smith, Robert
 Kern, Matti Picus, Stephan Hoyer, Marten H. van Kerkwijk, Matthew Brett, Allan Haldane,
-Jaime Fern´andez del R´ıo, Mark Wiebe, Pearu Peterson, Pierre G´erard-Marchant, Kevin Shep-
+Jaime Fernandez del Rıo, Mark Wiebe, Pearu Peterson, Pierre Gerard-Marchant, Kevin Shep-
 pard, Tyler Reddy, Warren Weckesser, Hameer Abbasi, Christoph Gohlke, and Travis E. Oliphant.
 Array programming with NumPy. Nature, 585(7825):357–362, September 2020.  
 [4] Guido Van Rossum. The Python Library Reference, release 3.12.4. Python Software Foundation,
@@ -44,7 +44,7 @@ of Open Source Software, 4(37):1277, 2019.
 [6] Wes McKinney. Data Structures for Statistical Computing in Python. In St´efan van der Walt
 and Jarrod Millman, editors, Proceedings of the 9th Python in Science Conference, pages 56 – 61,
 2010.  
-[7] Felipe Pezoa, Juan L Reutter, Fernando Suarez, Mart´ın Ugarte, and Domagoj Vrgoˇc. Foundations
+[7] Felipe Pezoa, Juan L Reutter, Fernando Suarez, Martın Ugarte, and Domagoj Vrgoc. Foundations
 of json schema. In Proceedings of the 25th International Conference on World Wide Web, pages
 263–273. International World Wide Web Conferences Steering Committee, 2016.  
 [8] Michael L. Waskom. seaborn: statistical data visualization. Journal of Open Source Software,
